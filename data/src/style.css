@@ -1,0 +1,33 @@
+.box {
+    width: 40%;
+    border: 2px solid green;
+}
+.box img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.img {
+    width: 40%;
+    height: 250px;
+    background-image: url("./assets/computer.jpg");
+    background-size: 40%;
+    background-repeat: no-repeat;
+}
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: darkcyan;
+    color: #fff;
+}
+.btn-group {
+    width: 30%;
+    height: 150px;
+    border: 1px solid blue;
+}
+
+.perspective {
+    width: 35%;
+    height: 200px;
+    border: 1px solid green;
+}
